@@ -1,5 +1,3 @@
-<br />
-
 <b>Table of Conents:</b>
 -   [Overview of the Repository](#zero)
 -	[Table 1: Median and 95% CI in-bag and out-of-bag AUC using bootstrap resampling (n=100) for the following datasets and methods.](#one)
@@ -20,7 +18,7 @@
 
 <br />
 <a id="one"></a>
-<p align="justify"><b> Table 2: Median and 95% CI in-bag and out-of-bag AUC using bootstrap resampling (n=100) for the following datasets and methods. </b></p>
+<p align="justify"><b> Table 1: Median and 95% CI in-bag and out-of-bag AUC using bootstrap resampling (n=100) for the following datasets and methods. </b></p>
 
 <p align="justify"><i>To view the static notebooks that are included in the results table above, click the corresponding square. For example, to open the MTBLS90 dataset and PLS-DA method click the area indicated by the green arrow. Alternatively, to open the ST000496 dataset and ANN-LS method click the area indicated by the red arrow. Note: if there are issues, try maximising the webpage.</i></p>
 
@@ -165,8 +163,6 @@
 <b style="text-align: justify">  Table 4: Methods </b>
 <p align="justify"><i>The 8 machine learning methods compared in this study are: partial least squares discriminant (PLS-DA), principal component regression (PCR), principal component logistic regression (PCLR), random forest (RF), linear-kernel support vector machine (SVM-Lin), radial basis function-kernel support vector machine (SVM-RBF), 2-Layer (linear activation, sigmoid activation) artificial neural network (ANN-LS), and 2-Layer (sigmoid activation, sigmoid activation) artificial neural network (ANN-SS). A summary of each method is shown below:</i></p>
     
-    </i></p>
-
 | Method                                                                           | Summary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 |----------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [PLS-DA](https://www.sciencedirect.com/science/article/abs/pii/016974399385002X) | Partial least squares discriminant analysis was implemented using the SIMPLS algorithm. Refer to [De Jong (1993)](https://www.sciencedirect.com/science/article/abs/pii/016974399385002X) for details on the SIMPLS algorithm.                                                                                                                                                                                                                                                                                                                                                                                 |
