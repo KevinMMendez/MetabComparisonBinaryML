@@ -1,4 +1,4 @@
-<b>Table of Conents:</b>
+<b>Table of Contents:</b>
 -   [Overview of the Repository](#zero)
 -	[Table 1: Median and 95% CI in-bag and out-of-bag AUC using bootstrap resampling (n=100) for the following datasets and methods.](#one)
 -	[Table 2: The dynamic and binder link for the following datasets and methods.](#two)
