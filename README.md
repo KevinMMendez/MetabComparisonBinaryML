@@ -19,8 +19,7 @@
 <br />
 <a id="one"></a>
 <p align="justify"><b> Table 1: Median and 95% CI in-bag and out-of-bag AUC using bootstrap resampling (n=100) for the following datasets and methods. </b></p>
-
-<p align="justify"><i>To view the static notebooks that are included in the results table above, click the corresponding square. For example, to open the MTBLS90 dataset and PLS-DA method click the area indicated by the green arrow. Alternatively, to open the ST000496 dataset and ANN-LS method click the area indicated by the red arrow. Note: if there are issues, try maximising the webpage.</i></p>
+<p align="justify"><img src="results_interactive.png" style="width: 230px; float: right;"/><i>To view the static notebooks that are included in the results table above, click the corresponding square. For example, to open the MTBLS90 dataset and PLS-DA method click the area indicated by the green arrow. Alternatively, to open the ST000496 dataset and ANN-LS method click the area indicated by the red arrow. Note: if there are issues, try maximising the webpage.</i></p>
 
 <img src="results.png" usemap="#results_table">
 
