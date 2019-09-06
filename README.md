@@ -11,7 +11,9 @@
 <p align="justify"><b> Overview of the Repository </b></p>
 <p align="justify">This repository contains the supplementary information for the ___ journal article. In this research article, we compare the predictability of Artificial Neural Networks (ANNs) for binary classification using bootstrap area under the roc curve (AUC) across 10 open-access datasets against other ML methods including partial least squares regression - discriminatory analysis (PLS-DA), principal component regression (PCR), principal component logistic regression (PCLR), random forest (RF), and support vector machine (SVM). For further information on the datasets and methods refer to the respective table at the bottom of this page.</p>
 
-<p align="justify">The workflow for each model and dataset includes the following step: import package, load data and peak sheet, extract X and Y, hyperparameter optimisation, build model and evaluate, bootstrap evaluation, and export results. All workflows used the Python programming language, and are published using Jupyter Notebooks as static and dynamic notebooks in this repository. The results of this study are shown in Figure 1.</p>
+<p align="justify">
+<img src="results_interactive.png" style="width: 300px; float: right;"/>
+The workflow for each model and dataset includes the following step: import package, load data and peak sheet, extract X and Y, hyperparameter optimisation, build model and evaluate, bootstrap evaluation, and export results. All workflows used the Python programming language, and are published using Jupyter Notebooks as static and dynamic notebooks in this repository. The results of this study are shown in Figure 1.</p>
 
 <br />
 <br />
