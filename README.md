@@ -117,7 +117,7 @@
 <a id="two"></a>
 <b style="text-align: justify">  Table 2: The download link for the following datasets and methods. </b>
 
-<p align="justify"><i>All workflows in this manuscript can be downloaded and run locally, or run as an interactive session in the cloud using Binder. To run these workflows locally, including downloading and installing Python refer to our tutorial review "Toward Collaborative Open Data Science in Metabolomics using Jupyter Notebooks and Cloud Computing" (doi: ___). In the table below, we provide direct links to download each workflow for a given method and dataset. To open this table in Binders, please click the link below:</i></p>
+<p align="justify"><i>All workflows in this manuscript can be downloaded and run locally, or run as an interactive session in the cloud using Binder. To run these workflows locally, including downloading and installing Python refer to our tutorial review "Toward Collaborative Open Data Science in Metabolomics using Jupyter Notebooks and Cloud Computing" (doi: 10.1007/s11306-019-1588-0). The repository can be downloaded using the clicking the "Download .zip" at the top of the page. In the table below, we provide direct links to download each workflow for a given method and dataset. To open this table in Binders, please click the link below:</i></p>
 
 #### *Launch the workflows in the cloud:* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cimcb/MetabComparisonBinaryML/master?filepath=ComparisonTable.ipynb)
 
