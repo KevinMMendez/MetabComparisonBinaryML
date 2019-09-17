@@ -121,6 +121,21 @@
 
 #### *Launch the workflows in the cloud:* [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cimcb/MetabComparisonBinaryML/master?filepath=ComparisonTable.ipynb)
 
+#### *To create a virtual environment, and run workflows locally:*
+*Note: If you are using Windows, you need to install git using the following: [Git for Windows](https://gitforwindows.org/)*
+
+1. Open Terminal on Linux/MacOS or Command Prompt on Windows
+2. Enter the following into the console (one line at a time)
+
+```console
+git clone https://github.com/cimcb/MetabComparisonBinaryML
+cd MetabComparisonBinaryML
+conda env create -f environment.yml
+conda activate MetabComparisonBinaryML
+jupyter notebook
+```
+<br />
+
 <b>DATASET</b>   | [MTBLS90](https://www.ebi.ac.uk/metabolights/MTBLS90)                                 | [MTBLS92](https://www.ebi.ac.uk/metabolights/MTBLS92)                                 | [MTBLS136](https://www.ebi.ac.uk/metabolights/MTBLS136)                                 | [MTBLS161](https://www.ebi.ac.uk/metabolights/MTBLS161)                                 | [MTBLS404](https://www.ebi.ac.uk/metabolights/MTBLS404)                                 | [MTBLS547](https://www.ebi.ac.uk/metabolights/MTBLS547)                                 | [ST000369](https://www.metabolomicsworkbench.org/data/DRCCMetadata.php?Mode=Study&StudyID=ST000865&StudyType=&ResultType=) | [ST000496](https://www.metabolomicsworkbench.org/data/DRCCMetadata.php?Mode=Study&StudyID=ST000496&StudyType=&ResultType=) | [ST001000](https://www.metabolomicsworkbench.org/data/DRCCMetadata.php?Mode=Study&StudyID=ST001000&StudyType=&ResultType=) | [ST001047](https://www.metabolomicsworkbench.org/data/DRCCMetadata.php?Mode=Study&StudyID=ST001047&StudyType=&ResultType=)
 :---         | ---                                                                                   | ---                                                                                   | ---                                                                                     | ---                                                                                     | ---                                                                                     | ---                                                                                     | ---                                                                                                                        | ---                                                                                                                        | ---                                                                                                                        | ---
 <b>PLATFORM</b>    | LC-MS                                                                                 | LC-MS                                                                                 | LC-MS                                                                                   | NMR                                                                                     | LC-MS                                                                                   | LC-MS                                                                                   | GC-MS                                                                                                                      | GC-MS                                                                                                                      | LC-MS                                                                                                                      | LC-MS
